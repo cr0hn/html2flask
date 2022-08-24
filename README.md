@@ -1,7 +1,7 @@
 # HTML to Flask
 
-![License](https://img.shields.io/badge/License-MIT-SUCCESS)
 ![Pypi](https://img.shields.io/pypi/v/html2flask)
+![License](https://img.shields.io/badge/License-MIT-SUCCESS)
 ![Python Versions](https://img.shields.io/badge/Python-3.8%20%7C%203.9%20%7C%203.10%20%7C%203.11-blue)
 
 In a nutshell ``HTML to Flask`` is a HTML to Jinja2 Flask Converter.
